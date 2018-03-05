@@ -1,1 +1,3 @@
-# wild-project500
+# wild-project
+
+How to install ?
